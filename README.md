@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshat42
 - 👀 I’m interested in Mobile, Web App developement , Algorithms.
-- 🌱 I’m currently learning Algorithms, AngularJs.
+- 🌱 I’m currently learning Algorithms, Angular.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->

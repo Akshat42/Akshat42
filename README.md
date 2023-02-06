@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshat42
+- 👋 Hi, I’m Akshat
 - 👀 I’m interested in Mobile, Web App developement , Algorithms.
 - 🌱 I’m currently learning Algorithms, React.
 <!---
